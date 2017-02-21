@@ -101,6 +101,16 @@ PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, Mail
 
 ## G
 
+### Gigabyte Group Limited.
+Huntingdon Works,
+Huntingdon Road,
+East Finchley,
+London,
+N2 9DX
+
+* http://www.gigabytegroup.co.uk/
+
+Integrated enterprise software with PHP
 
 ## H
 
